@@ -1,0 +1,21 @@
+
+‹
+java:S1319²"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(£ŞÙıÿÿÿÿ
+s
+java:S1192ã"]Define a constant instead of duplicating this literal "FileResource: cannot access " 4 times.(Â”J
+K
+java:S6212ô"/Declare this local variable with "var" instead.(¦‚´ùÿÿÿÿ
+p
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(œœÕ¼
+u
+java:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(½§ßËüÿÿÿÿ
+K
+java:S6212µ"/Declare this local variable with "var" instead.(€ê±Õúÿÿÿÿ
+F
+java:S2093¾"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+U
+java:S4719ú"9Replace charset name argument with StandardCharsets.UTF_8(•Ë°ÿÿÿÿÿ
+F
+java:S6212û"/Declare this local variable with "var" instead.(‚œŒ
+F
+java:S2093ù"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
