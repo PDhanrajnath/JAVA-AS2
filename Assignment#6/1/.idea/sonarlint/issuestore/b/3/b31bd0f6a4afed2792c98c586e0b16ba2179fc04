@@ -1,0 +1,15 @@
+
+8
+java:S1659""Declare "str2" on a separate line.(ËöàØ
+=
+java:S1659"!Declare "sum" on a separate line.(çÍ)8œ‰İô£/
+?
+java:S1659"#Declare "count" on a separate line.(çÍ)8¾ìÛô£/
+4
+java:S1659"Declare "c" on a separate line.(çÍ)
+E
+java:S6212	"/Declare this local variable with "var" instead.(ğä°Å
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¸á¥Ê
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Ñº®ãşÿÿÿÿ8ËâÀô£/
+D
+java:S1481"(Remove this unused "sum" local variable.(çÍ)8 ‰İô£/

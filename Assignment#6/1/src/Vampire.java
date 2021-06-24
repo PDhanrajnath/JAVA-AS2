@@ -2,10 +2,8 @@ import java.util.*;
 
 public class Vampire {
     public static void main(String[] args) {
-        long t1 = System.currentTimeMillis();
         String[] str1, str2;
-        int pro, sum = 0;
-        int count=100,c=0;
+        int pro,sum=0,count=100,c=0;
         while(count!=0) {
             c++;
             for (int i = 10; i < 100; i++) {
