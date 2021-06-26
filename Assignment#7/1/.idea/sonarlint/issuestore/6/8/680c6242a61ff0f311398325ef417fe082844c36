@@ -1,0 +1,23 @@
+
+X
+java:S1610"6Convert the abstract class "Rodent" into an interface.(ıõ£ûÿÿÿÿ8‰ø›¿¤/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹Ñäêüÿÿÿÿ8Œø›¿¤/
+>
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8ø›¿¤/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ÷ÿõùÿÿÿÿ8’ø›¿¤/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Æ«µÈ8•ø›¿¤/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‘íâÎûÿÿÿÿ8—ø›¿¤/
+>
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8˜ø›¿¤/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨Ä «ûÿÿÿÿ8™ø›¿¤/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(çÕüÊıÿÿÿÿ8›ø›¿¤/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Æù¹„øÿÿÿÿ8œø›¿¤/
+>
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8œø›¿¤/
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ªÅŞ8ø›¿¤/
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(é˜§8ø›¿¤/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(Æ³æşÿÿÿÿ8Ÿø›¿¤/
+>
+java:S1116)"Remove this empty statement.(ôŸìúÿÿÿÿ8Ÿø›¿¤/
+L
+java:S6212,"/Declare this local variable with "var" instead.(Ä§8¡ø›¿¤/

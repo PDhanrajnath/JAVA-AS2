@@ -1,0 +1,13 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ìïÎ
+w
+java:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "sc".(„Š©Ä8İ²½¤/
+X	java:S125
+"<This block of commented-out lines of code should be removed.(ûĞ¨‘8­‘©½¤/
+L
+java:S6212"/Declare this local variable with "var" instead.(„Š©Ä8åÍ½½¤/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB8°‘©½¤/
+L
+java:S6212"/Declare this local variable with "var" instead.(ÁÍÆú8’ñ¿½¤/
+Q
+java:S6212"/Declare this local variable with "var" instead.(ëóÅ§ùÿÿÿÿ8¹¿¬½¤/

@@ -1,0 +1,16 @@
+
+Q
+java:S1610"5Convert the abstract class "Cycle" into an interface.(Ô¨³I8ŠßÕ¿¤/
+>
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8ŒßÕ¿¤/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(şĞ¹üÿÿÿÿ8ßÕ¿¤/
+>
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8ßÕ¿¤/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ğ¸ùÿÿÿÿÿ8‘ßÕ¿¤/
+>
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8‘ßÕ¿¤/
+]	java:S125"<This block of commented-out lines of code should be removed.(¹ëÿÿÿÿÿ8óÏÚ¿¤/
+>
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8’ßÕ¿¤/
+]	java:S125"<This block of commented-out lines of code should be removed.(…³°±ÿÿÿÿÿ8Ùÿå¿¤/
+X	java:S125 "<This block of commented-out lines of code should be removed.(¡Èô8éÕç¿¤/

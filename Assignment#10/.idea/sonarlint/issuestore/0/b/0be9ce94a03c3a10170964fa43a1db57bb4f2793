@@ -1,0 +1,16 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«çÁïüÿÿÿÿ8ÔĞÂ¤/
+k	java:S116"ORename this field "Link" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¶Ö§8’ÔĞÂ¤/
+>
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8ßÏÂ¤/
+L
+java:S6212"/Declare this local variable with "var" instead.(˜êŞ‰8œÔĞÂ¤/
+>
+java:S1116""Remove this empty statement.(ôŸìúÿÿÿÿ8 ÔĞÂ¤/
+o	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÃÅ«ùÿÿÿÿ8¢ÔĞÂ¤/
+>
+java:S11169"Remove this empty statement.(ôŸìúÿÿÿÿ8¦ÔĞÂ¤/
+Q
+java:S6212>"/Declare this local variable with "var" instead.(®Òçşÿÿÿÿ8”ÅÂ¤/
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(­ÎºÊüÿÿÿÿ8–”ÅÂ¤/
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(­ÎºÊüÿÿÿÿ8ˆ§àÂ¤/

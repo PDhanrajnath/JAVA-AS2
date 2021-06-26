@@ -1,0 +1,20 @@
+
+E
+java:S5411!"*Use the primitive boolean expression here.(Ú½²ûÿÿÿÿ
+V
+java:S4973"9Use the "equals" method if value comparison was intended.(ÇÕ°†8ÂşÁ¶¤/
+J
+java:S6212"/Declare this local variable with "var" instead.(ÖÄ‹Äùÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÖÄ‹Äùÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(äÆ¾Ó
+J
+java:S6212"/Declare this local variable with "var" instead.(èÅŸÚûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Š­•
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(®™ÂÇ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ôîÆİıÿÿÿÿ
+X	java:S125$"<This block of commented-out lines of code should be removed.(Ïª˜Ê8ÊòÉ¶¤/
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ÕÙëüıÿÿÿÿ
+E
+java:S62123"/Declare this local variable with "var" instead.(šò‚‘

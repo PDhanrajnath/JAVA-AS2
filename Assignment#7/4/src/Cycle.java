@@ -1,0 +1,3 @@
+interface Cycle{
+    String factories();
+}
