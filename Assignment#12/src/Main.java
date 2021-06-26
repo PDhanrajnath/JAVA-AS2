@@ -19,5 +19,41 @@ public class Main {
             stArrLst.add(new Student(255, "Ali Baig", 17, "Male", "Electronic", 2018, 88.4));
             stArrLst.add(new Student(266, "Sanvi Pandey", 17, "Female", "Electric", 2019, 72.4));
             stArrLst.add(new Student(277, "Anuj Chettiar", 18, "Male", "Computer Science", 2017, 57.5));
+
+        StudentManagement management = new StudentManagement(stArrLst);
+
+        // 1.  Print the name of all departments in the college?
+        management.printAllEngineeringDepartments();
+
+        // 2. Get the names of all students who have enrolled after 2018?
+        System.out.println(management.joinedAfterEnrollmentYear(2018));
+
+        // 3. Get the details of all male student in the computer sci department?
+        System.out.println(management.filterByGenderAndDepartment("Male", "Computer Science"));
+
+        // 4. How many male and female student are there ?
+        System.out.println(management.countBasedOnGender());
+
+        // 5. What is the average age of male and female students?
+        System.out.println(management.averageAgeByGender());
+
+        // 6. Get the details of highest student having highest percentage ?
+        System.out.println(management.getDetailsOfHighestPercentage());
+
+        // 7. Count the number of students in each department?
+        System.out.println(management.countBasedOnDepartments());
+
+        // 8. What is the average percentage achieved in each department?
+        System.out.println(management.averageBasedOnDepartment());
+
+        // 9. Get the details of youngest male student in the Electronic department?
+        System.out.println(management.findYoungestBasedOnGenderAndDepartment("Male", "Electronic"));
+
+        // 10. How many male and female students are there in the computer science department?
+        System.out.println(management.countByGenderBasedOnDepartments("Computer Science"));
+
+
+
+
     }
 }
