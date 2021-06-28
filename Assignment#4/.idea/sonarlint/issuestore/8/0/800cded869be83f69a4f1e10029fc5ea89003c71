@@ -1,25 +1,25 @@
 
-K
-java:S1659")Declare "currentDate" on a separate line.(ê÷¸Ôúÿÿÿÿ8¥Æ¦»¤/
-M
-java:S1659"+Declare "stringEndDate" on a separate line.(Ó¦ô‘ıÿÿÿÿ8¥Æ¦»¤/
-G
-java:S1659"%Declare "endDate" on a separate line.(ÒÛÈÖùÿÿÿÿ8¥Æ¦»¤/
-L
-java:S6212"/Declare this local variable with "var" instead.(«š­û8ªÆ¦»¤/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ì¤ùÔùÿÿÿÿ8®Æ¦»¤/
-Q
-java:S1874"/Remove this use of "setYear"; it is deprecated.(šË„ñùÿÿÿÿ8²Æ¦»¤/
-Q
-java:S1874"/Remove this use of "getYear"; it is deprecated.(šË„ñùÿÿÿÿ8³Æ¦»¤/
-L
-java:S6212"/Declare this local variable with "var" instead.(£„Ş£8³Æ¦»¤/
-U	java:S106*"9Replace this use of System.out or System.err by a logger.(ÚÇŸá8µÆ¦»¤/
-U	java:S106+"9Replace this use of System.out or System.err by a logger.(×•œ²8¶Æ¦»¤/
-W
-java:S2479+":Remove the non-escaped \u0009 character from this literal.(×•œ²8¶Æ¦»¤/
-Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ÈåÁıúÿÿÿÿ8¶Æ¦»¤/
->
-java:S11163"Remove this empty statement.(ôŸìúÿÿÿÿ8·Æ¦»¤/
-Q
-java:S62129"/Declare this local variable with "var" instead.(º‡Å¸ûÿÿÿÿ8×Ü¨»¤/
+D
+java:S1659")Declare "currentDate" on a separate line.(ê÷¸Ôúÿÿÿÿ
+F
+java:S1659"+Declare "stringEndDate" on a separate line.(Ó¦ô‘ıÿÿÿÿ
+@
+java:S1659"%Declare "endDate" on a separate line.(ÒÛÈÖùÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(«š­û
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ì¤ùÔùÿÿÿÿ
+J
+java:S1874"/Remove this use of "setYear"; it is deprecated.(šË„ñùÿÿÿÿ
+J
+java:S1874"/Remove this use of "getYear"; it is deprecated.(šË„ñùÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(£„Ş£
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(ÚÇŸá
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(×•œ²
+P
+java:S2479+":Remove the non-escaped \u0009 character from this literal.(×•œ²
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ÈåÁıúÿÿÿÿ
+7
+java:S11163"Remove this empty statement.(ôŸìúÿÿÿÿ
+J
+java:S62129"/Declare this local variable with "var" instead.(º‡Å¸ûÿÿÿÿ

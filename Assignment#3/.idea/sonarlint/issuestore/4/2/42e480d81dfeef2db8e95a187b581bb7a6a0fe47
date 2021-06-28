@@ -1,10 +1,17 @@
 
-L
-java:S6212"/Declare this local variable with "var" instead.(÷â¸Ì8º¯þ·¤/
-Q
-java:S6212"/Declare this local variable with "var" instead.(®þîìøÿÿÿÿ8¼¯þ·¤/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ8½¯þ·¤/
-X	java:S125"<This block of commented-out lines of code should be removed.(Îà’­8¾¯þ·¤/
-L
-java:S6212"/Declare this local variable with "var" instead.(äÆ¾Ó8¿¯þ·¤/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÑŠ¬¾üÿÿÿÿ8Â¯þ·¤/
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÅûþÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(²³¶Î
+J
+java:S6212"/Declare this local variable with "var" instead.(ÍÅûþÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(®þîìøÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(ùó›Ìøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(¤•Êå
+N	java:S106""9Replace this use of System.out or System.err by a logger.(Ù­ä˜
+E
+java:S6212."/Declare this local variable with "var" instead.(äÆ¾Ó
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ÑŠ¬¾üÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(Ò¥¦êþÿÿÿÿ

@@ -39,6 +39,7 @@ public class Student {
         return cgpaUpdated;
     }
 
+    //returns all the values into string
     public String toString(){
         return "Student details ->[ name= "+name+", id= "+id+", age= "+age+", gender= "+gender+", Joined-Year= "+joinedYear+", Department= "+dept+", CGPA="+cgpaUpdated+" ]";
     }

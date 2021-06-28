@@ -1,4 +1,3 @@
-import java.io.*;
 import java.util.*;
 
 public class AssignmentTwo {
@@ -33,7 +32,7 @@ public class AssignmentTwo {
         System.out.println("Enter String");
         //entered string is stored in str by Scanner class object
         String str=sc.next();
-        //CAlling function call checkAssignment and return true/false
+        //Calling function call checkAssignment and return true/false
         if(checkAssignment(str)){
             System.out.println("TRUE");
         }

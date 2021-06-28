@@ -1,16 +1,19 @@
 abstract class Cycle{
     public abstract void balance();
 }
+//inheriting parent class
 class Unicycle extends Cycle{
     public void balance(){
         System.out.println("The cost of Unicycle start with RS 2500. ");
     }
 }
+//inheriting parent class
 class Bicycle extends Cycle{
     public void balance(){
         System.out.println("The cost of Bicycle start with Rs 3000. ");
     }
 }
+//inheriting parent class but not overriding method in this class
 class Tricycle extends Cycle{
 //    public void balance() {
 //

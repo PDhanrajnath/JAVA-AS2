@@ -8,6 +8,7 @@ public class Test
         //Hi I'm Dhanraj, currently doing intern as Associate Software Engineer in Zemoso Technologies. ->true
         //hi I'm Dhanraj, currently doing intern as Associate Software Engineer in Zemoso Technologies. ->false
         String regexPattern="[A-Z].*[.]";
+        //matching according to pattern
         boolean flag=Pattern.matches(regexPattern, s1);
         if(flag){
             System.out.println("Yes the given pattern matches the regex: "+flag);

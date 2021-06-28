@@ -13,7 +13,7 @@ class Node {
             return "null";
         return data;
     }
-};
+}
 
 class SList {
     Node head = new Node(null);
@@ -31,8 +31,8 @@ class SList {
         }
         return ""+s;
     }
-};
-
+}
+//Iterator for list
 class SListIterator {
     Node temp;
     SListIterator(Node node){
@@ -42,19 +42,22 @@ class SListIterator {
         temp = temp.Link;
         return temp;
     }
+    //checks link
     public boolean hasLink() {
         return temp.Link!=null;
     }
+    //inserts node at last
     public void insertNode(String data) {
         temp.Link = new Node(data, temp.Link);
         temp = temp.Link;
     }
+    //removes node at first
     public void removeNode() {
         if(temp.Link != null) {
             temp.Link = temp.Link.Link;
         }
     }
-};
+}
 
 class MainClass {
 

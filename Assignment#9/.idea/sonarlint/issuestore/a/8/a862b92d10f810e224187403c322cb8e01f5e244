@@ -5,10 +5,10 @@ o	java:S100"NRename this method name to match the regular expression '^[a-z][
 Q
 java:S6212
 "/Declare this local variable with "var" instead.(íèÕ´ıÿÿÿÿ8¤Ú¼¾¤/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(éÀç·8ïÚ¼¾¤/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Õã…Ù8ñÚ¼¾¤/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(éÀç·8ïÚ¼¾¤/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Õã…Ù8ñÚ¼¾¤/
 L
-java:S6212"/Declare this local variable with "var" instead.(äÆ¾Ó8ƒÛ¼¾¤/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(«®éÕ8ˆÛ¼¾¤/
+java:S6212"/Declare this local variable with "var" instead.(äÆ¾Ó8ƒÛ¼¾¤/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«®éÕ8ˆÛ¼¾¤/
 Q
-java:S6212"/Declare this local variable with "var" instead.(ƒĞŠÄÿÿÿÿÿ8‹Û¼¾¤/
+java:S6212"/Declare this local variable with "var" instead.(ƒĞŠÄÿÿÿÿÿ8‹Û¼¾¤/

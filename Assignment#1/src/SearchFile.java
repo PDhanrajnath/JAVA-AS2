@@ -1,55 +1,53 @@
-
+//import edu.duke.FileResource;
 import java.io.File;
+import java.nio.file.FileSystems;
+import java.nio.file.Path;
+import java.nio.file.PathMatcher;
 import java.util.Scanner;
-
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class SearchFile{
-
     private void findFile()
     {
+        //default path
+        File myObj = new File("/home/dhanrp/");
+        //list of files in path
+        String[] files=myObj.list();
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter pattern or regex! ");
+        //regex pattern
+        String reg=sc.nextLine();
 
-        // address of files or folder where to search
-        File file = new File("/home/dhanrp/");
-        //string to store the name of the file
-        String str ;
-        //  Scanner is declare
-        Scanner in = new Scanner(System.in);
-        // do while is used to run the program again and again
-        do{
-            int ab =0;
-            System.out.println("ENTER THE NAME OF FILE OR FOLDER");
-            //take input
-            str =in.nextLine();
-            if(str=="quit"){
-                return ;
-            }
-            //list of file is stored in string
-            String[] files = file.list();
-            //continous check each file or folder
-            for (String string : files){
-                //check the name of file present or not and store in boolean str1
-                Boolean str1 = str.equals(string);
-                // str1 is true than print the following
-                if (str1){
-                    ab = 1;
-                    System.out.println("File Found : "+string);
-//                    System.out.println(string);
-                    //print the address of the fiMle
-                    System.out.println("Path : "+ file.getAbsolutePath());
-                }
-            }
-            //if file not found
-            if(ab == 0)
-            {
-                System.out.println("File not find : Reenter the name of the file.");
-            }
-        } while(true);
+
+//        if(flag){
+//            System.out.println("Yes the given pattern matches the regex: "+flag);
+//        }
+//        else{
+//            System.out.println("No the given pattern does not matches the regex: "+flag);
+//        }
+
+
+        //Pattern class compiles the regex
+        Pattern pattern = Pattern.compile(reg, Pattern.CASE_INSENSITIVE);
+        for(String s: files){
+            //Matcher class will match the pattern to list of files
+//            Matcher matcher = pattern.matcher(s);
+            //matchFound will have the result
+            boolean flag=Pattern.matches(reg, s);
+            if(flag)
+                System.out.println("Matched -> /home/dhanrp/"+s+"/");
+            else
+                System.out.println(s+" Not matched!");
+        }
+
     }
 
     public static void main(String[] args){
         //object of SearchFile class is created
         SearchFile obj =new SearchFile();
         //calling the findFile()
+
         obj.findFile();
     }
 }

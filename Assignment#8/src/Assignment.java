@@ -1,26 +1,27 @@
 import java.lang.Exception;
-
+//user defined exceptions
 class UserName extends Exception{
     public UserName(String str){
         super(str);
     }
-};
+}
 
 class Id extends Exception{
     public Id(String str){
         super(str);
     }
-};
+}
 
 class Dept extends Exception{
     public Dept(String str){
         super(str);
     }
-};
+}
 
 public class Assignment {
     public void Auth(String uname,String id,String dept) throws UserName,Id,Dept{
         if(uname.length()<=4){
+            //throwing and exception
             throw new UserName("username is very short!");
         }
         else if(uname.length()>=15){

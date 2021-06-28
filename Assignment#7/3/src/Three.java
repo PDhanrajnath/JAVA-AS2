@@ -12,6 +12,7 @@ interface C {
     void displayC();
 
 }
+//inherting 3 diff interfaces here
 interface D extends A,B,C{
     void newMethod();
 }
@@ -35,7 +36,7 @@ class ConcreteClass implements D{
     public void displayC() {
         System.out.println("interface C display method");
     }
-
+//methods that takes parameters as objects
     public void newMethod() {
         System.out.println("New Method! from D which extends all three interfaces");
     }

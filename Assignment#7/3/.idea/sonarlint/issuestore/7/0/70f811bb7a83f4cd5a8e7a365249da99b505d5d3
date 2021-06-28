@@ -1,20 +1,20 @@
 
 I
 java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ã¶Âüÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¢¦¡àşÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ÉõÄ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(µÕæ¤üÿÿÿÿ
-N	java:S106!"9Replace this use of System.out or System.err by a logger.(û·¡Ø
-S	java:S106$"9Replace this use of System.out or System.err by a logger.(”×£ûÿÿÿÿ
-S	java:S106("9Replace this use of System.out or System.err by a logger.(ÖÏäıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã¶Âüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢¦¡àşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÉõÄ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µÕæ¤üÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(û·¡Ø
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(”×£ûÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ÖÏäıÿÿÿÿ
 J
-java:S6212@"/Declare this local variable with "var" instead.(‹¸º½üÿÿÿÿ
+java:S6212A"/Declare this local variable with "var" instead.(‹¸º½üÿÿÿÿ
 R
-java:S2209B"5Change this instance-reference to a static reference.(™Òé8Ÿ¹øÀ¤/
+java:S2209C"5Change this instance-reference to a static reference.(™Òé8Ÿ¹øÀ¤/
 W
-java:S2209C"5Change this instance-reference to a static reference.(Õ¤®”ÿÿÿÿÿ8¸ÔúÀ¤/
+java:S2209D"5Change this instance-reference to a static reference.(Õ¤®”ÿÿÿÿÿ8¸ÔúÀ¤/
 R
-java:S2209D"5Change this instance-reference to a static reference.(ï¦ŒÃ8†ÆûÀ¤/
+java:S2209E"5Change this instance-reference to a static reference.(ï¦ŒÃ8†ÆûÀ¤/
 W
-java:S2209E"5Change this instance-reference to a static reference.(ŒÚæƒùÿÿÿÿ8‡ÆûÀ¤/
+java:S2209F"5Change this instance-reference to a static reference.(ŒÚæƒùÿÿÿÿ8‡ÆûÀ¤/
