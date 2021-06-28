@@ -8,9 +8,7 @@ public class Main {
         HashMap<Character, Integer> charCountMap = new HashMap<Character, Integer>();
 
         // Converting given string to char array
-
         char[] strArray = inputString.toCharArray();
-
         // checking each char of strArray
         for (char c : strArray) {
             if (charCountMap.containsKey(c)) {

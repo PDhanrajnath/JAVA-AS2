@@ -1,0 +1,18 @@
+
+g
+java:S1192"QDefine a constant instead of duplicating this literal "Computer Science" 7 times.(¡¡ô
+]
+java:S1192"GDefine a constant instead of duplicating this literal "Female" 6 times.(¡¡ô
+f
+java:S1192"KDefine a constant instead of duplicating this literal "Electronic" 5 times.(«åÕÕùÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(É®É
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÂË»¢şÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(Çó‘Á
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¥íşÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(Éœ¼ùÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(Ò·Ÿ™
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(½šş•
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(¬äü‚
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(‹®›¸ùÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(÷Ş¸ì

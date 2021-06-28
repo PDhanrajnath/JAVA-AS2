@@ -1,0 +1,20 @@
+
+T
+java:S3655d"7Call "Optional#isPresent()" before accessing the value.(ß€Èï8„ùÈ¤/
+B
+java:S1612",Replace this lambda with a method reference.(Ô¾úÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+N
+java:S1612",Replace this lambda with a method reference.(‘Ôİıÿÿÿÿ8’‹üÈ¤/
+H
+java:S1612+",Replace this lambda with a method reference.(â„B8ùĞıÈ¤/
+H
+java:S16124",Replace this lambda with a method reference.(â„B8üĞıÈ¤/
+N
+java:S1612@",Replace this lambda with a method reference.(¶Ã‡‡üÿÿÿÿ8ı†É¤/
+N
+java:S1612K",Replace this lambda with a method reference.(Í‘ıíÿÿÿÿÿ8ş†É¤/
+H
+java:S1612T",Replace this lambda with a method reference.(â„B8€‡É¤/
+N
+java:S1612\",Replace this lambda with a method reference.(Í‘ıíÿÿÿÿÿ8‚‡É¤/
