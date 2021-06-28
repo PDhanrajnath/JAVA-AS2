@@ -7,6 +7,7 @@ public class One {
         System.out.println("int -> "+a);
         System.out.println("char -> "+b );
     }
+    
     public void show(){
         //without the initialization of local variable print their values in not possible.
 //        int c=5;
