@@ -1,22 +1,22 @@
 abstract class Cycle{
     public abstract void balance();
-};
+}
 class Unicycle extends Cycle{
     public void balance(){
         System.out.println("The cost of Unicycle start with RS 2500. ");
     }
-};
+}
 class Bicycle extends Cycle{
     public void balance(){
         System.out.println("The cost of Bicycle start with Rs 3000. ");
     }
-};
+}
 class Tricycle extends Cycle{
 //    public void balance() {
 //
 //    }
 //getting error in this code as Tricycle class inherit class Cycle but balance() is not declare by this class
-};
+}
 public class Two{
     public static void main(String[] args) {
 //        Unicycle u=new Unicycle();
